@@ -1,3 +1,2 @@
 chromadb
 python-dotenv
-fitz
